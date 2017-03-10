@@ -1,7 +1,6 @@
 C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\Maps.NET.exe.config
 C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\Maps.NET.exe
 C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\Maps.NET.pdb
-C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\obj\Debug\Maps .NET.csprojResolveAssemblyReference.cache
 C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\obj\Debug\Maps.NET.Properties.Resources.resources
 C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\obj\Debug\Maps .NET.csproj.GenerateResource.Cache
 C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\obj\Debug\Maps.NET.exe
@@ -9,3 +8,4 @@ C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\obj\Debug\Maps.NET.pdb
 C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\js\googlemaps.js
 C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\obj\Debug\Maps.NET.frmPrincipal.resources
 C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\html\googlemaps.html
+C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\css\main.css

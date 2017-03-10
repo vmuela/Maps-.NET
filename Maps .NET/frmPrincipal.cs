@@ -37,6 +37,21 @@ namespace Maps.NET
             webBrowserMap.ObjectForScripting = this;
         }
 
+        public void mapPositionChange(double lat, double lon, int zoom, string latcentro, string loncentro)
+        {
+            lblLatitud.Text = lat.ToString();
+            lblLongitud.Text = lon.ToString();
+            if (zoom != 0)
+            {
+                lblZoom.Text = zoom.ToString();
+            }
+        }
+
+        public void mapZoomChange(int zoom)
+        {
+            lblZoom.Text = zoom.ToString();
+        }
+
         private void cmdSalir_Click(object sender, EventArgs e)
         {
             Application.Exit();

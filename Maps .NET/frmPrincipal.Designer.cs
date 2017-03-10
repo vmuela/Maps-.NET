@@ -33,10 +33,12 @@
             this.cmdSalir = new System.Windows.Forms.ToolStripButton();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
-            this.toolStripStatusLabel2 = new System.Windows.Forms.ToolStripStatusLabel();
+            this.lblLatitud = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabel3 = new System.Windows.Forms.ToolStripStatusLabel();
-            this.toolStripStatusLabel4 = new System.Windows.Forms.ToolStripStatusLabel();
+            this.lblLongitud = new System.Windows.Forms.ToolStripStatusLabel();
             this.webBrowserMap = new System.Windows.Forms.WebBrowser();
+            this.toolStripStatusLabel2 = new System.Windows.Forms.ToolStripStatusLabel();
+            this.lblZoom = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -63,10 +65,12 @@
             // statusStrip1
             // 
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripStatusLabel1,
             this.toolStripStatusLabel2,
+            this.lblZoom,
+            this.toolStripStatusLabel1,
+            this.lblLatitud,
             this.toolStripStatusLabel3,
-            this.toolStripStatusLabel4});
+            this.lblLongitud});
             this.statusStrip1.Location = new System.Drawing.Point(0, 539);
             this.statusStrip1.Name = "statusStrip1";
             this.statusStrip1.Size = new System.Drawing.Size(784, 22);
@@ -79,11 +83,12 @@
             this.toolStripStatusLabel1.Size = new System.Drawing.Size(26, 17);
             this.toolStripStatusLabel1.Text = "Lat:";
             // 
-            // toolStripStatusLabel2
+            // lblLatitud
             // 
-            this.toolStripStatusLabel2.Name = "toolStripStatusLabel2";
-            this.toolStripStatusLabel2.Size = new System.Drawing.Size(13, 17);
-            this.toolStripStatusLabel2.Text = "0";
+            this.lblLatitud.Name = "lblLatitud";
+            this.lblLatitud.Size = new System.Drawing.Size(13, 17);
+            this.lblLatitud.Text = "0";
+            this.lblLatitud.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // toolStripStatusLabel3
             // 
@@ -91,11 +96,12 @@
             this.toolStripStatusLabel3.Size = new System.Drawing.Size(30, 17);
             this.toolStripStatusLabel3.Text = "Lon:";
             // 
-            // toolStripStatusLabel4
+            // lblLongitud
             // 
-            this.toolStripStatusLabel4.Name = "toolStripStatusLabel4";
-            this.toolStripStatusLabel4.Size = new System.Drawing.Size(13, 17);
-            this.toolStripStatusLabel4.Text = "0";
+            this.lblLongitud.Name = "lblLongitud";
+            this.lblLongitud.Size = new System.Drawing.Size(13, 17);
+            this.lblLongitud.Text = "0";
+            this.lblLongitud.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // webBrowserMap
             // 
@@ -103,8 +109,23 @@
             this.webBrowserMap.Location = new System.Drawing.Point(0, 25);
             this.webBrowserMap.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowserMap.Name = "webBrowserMap";
+            this.webBrowserMap.ScriptErrorsSuppressed = true;
+            this.webBrowserMap.ScrollBarsEnabled = false;
             this.webBrowserMap.Size = new System.Drawing.Size(784, 514);
             this.webBrowserMap.TabIndex = 2;
+            // 
+            // toolStripStatusLabel2
+            // 
+            this.toolStripStatusLabel2.Name = "toolStripStatusLabel2";
+            this.toolStripStatusLabel2.Size = new System.Drawing.Size(42, 17);
+            this.toolStripStatusLabel2.Text = "Zoom:";
+            // 
+            // lblZoom
+            // 
+            this.lblZoom.Name = "lblZoom";
+            this.lblZoom.Size = new System.Drawing.Size(13, 17);
+            this.lblZoom.Text = "0";
+            this.lblZoom.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // frmPrincipal
             // 
@@ -134,10 +155,12 @@
         private System.Windows.Forms.ToolStripButton cmdSalir;
         private System.Windows.Forms.StatusStrip statusStrip1;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel1;
-        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel2;
+        private System.Windows.Forms.ToolStripStatusLabel lblLatitud;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel3;
-        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel4;
+        private System.Windows.Forms.ToolStripStatusLabel lblLongitud;
         private System.Windows.Forms.WebBrowser webBrowserMap;
+        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel2;
+        private System.Windows.Forms.ToolStripStatusLabel lblZoom;
     }
 }
 

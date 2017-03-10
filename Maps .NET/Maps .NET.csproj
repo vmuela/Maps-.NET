@@ -79,6 +79,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\main.css">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="html\googlemaps.html">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
