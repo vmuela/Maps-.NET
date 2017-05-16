@@ -9,3 +9,25 @@ C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\js\googlemaps
 C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\obj\Debug\Maps.NET.frmPrincipal.resources
 C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\html\googlemaps.html
 C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\css\main.css
+C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\html\bingmaps.html
+C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\js\bingmaps.js
+C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\obj\Debug\Maps.NET.frmStreetView.resources
+C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\html\streetview.html
+C:\Datos\MEGA\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\js\streetview.js
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\css\main.css
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\html\bingmaps.html
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\html\googlemaps.html
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\html\streetview.html
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\js\bingmaps.js
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\js\googlemaps.js
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\js\streetview.js
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\Maps.NET.exe.config
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\Maps.NET.exe
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\bin\Debug\Maps.NET.pdb
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\obj\Debug\Maps .NET.csprojResolveAssemblyReference.cache
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\obj\Debug\Maps.NET.frmPrincipal.resources
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\obj\Debug\Maps.NET.frmStreetView.resources
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\obj\Debug\Maps.NET.Properties.Resources.resources
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\obj\Debug\Maps .NET.csproj.GenerateResource.Cache
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\obj\Debug\Maps.NET.exe
+C:\Datos\OneDrive\Proyectos\PROYECTO_002\Maps .NET\Maps .NET\obj\Debug\Maps.NET.pdb
